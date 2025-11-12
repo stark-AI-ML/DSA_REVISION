@@ -1,5 +1,13 @@
 #include <iostream>
 
+/*Binary Search : Time Complexity O(log(n)*/
+
+/*
+Intuation : Opening book if sorted why would you check previous if you need to go further
+
+Eg : 500 pages you need to go to 300 go for mid (250) you need to go right, right? so again open mid b.w.
+250 and 500  --- 375 reched further search in b.w. 250 and 375...
+*/
 #include <vector>
 int BinarySearch(std::vector<int> nums, int target)
 {
