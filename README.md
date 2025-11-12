@@ -14,7 +14,7 @@ This repository contains curated solutions to popular DSA problems from platform
 
 | Category       | Folder Link                 |
 | -------------- | --------------------------- |
-| Arrays         | [🔗](./arrays)              |
+| Arrays         | [🔗](./ALGO)                |
 | Linked Lists   | [🔗](./linked_lists)        |
 | Trees & Graphs | [🔗](./trees_graphs)        |
 | DP             | [🔗](./dynamic_programming) |
