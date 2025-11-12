@@ -1,21 +1,28 @@
-# 📘 Data Structures & Algorithms Practice
+# 🧠 DSA Playground
 
-This repository contains curated solutions to popular DSA problems from platforms like LeetCode, Codeforces, and GeeksforGeeks. It’s designed for revision, interview prep, and deep understanding.
+A structured repository for mastering Data Structures and Algorithms. Ideal for interview prep, revision, and deep dives.
 
-## 📚 Table of Contents
+## 📁 Folder Overview
 
-- [Problem Categories](#problem-categories)
-- [Setup](#setup)
-- [How to Use](#how-to-use)
-- [Contribution Guide](#contribution-guide)
-- [License](#license)
+- **BASICS**: Language fundamentals and complexity analysis
+- **DATA_STRUCTURES**: Arrays, Linked Lists, Trees, Graphs, etc.
+- **ALGORITHMS**: Sorting, Searching, DP, Graph algorithms
 
-## 🧩 Problem Categories
+## 📚 Navigation
 
-| Category       | Folder Link                 |
-| -------------- | --------------------------- |
-| Algorithims    | [🔗](./ALGO)                |
-| Linked Lists   | [🔗](./linked_lists)        |
-| Trees & Graphs | [🔗](./trees_graphs)        |
-| DP             | [🔗](./dynamic_programming) |
-| Strings        | [🔗](./strings)             |
+- [DS](./DS/README.md)
+- [ALGO](./ALGO/README.md)
+- [Sorting](./ALGORITHMS/Sorting)
+- [Graph Algorithms](./ALGORITHMS/Graph_Algorithms/README.md)
+
+## 🧪 How to Use
+
+Each folder contains:
+
+- Problem files with comments
+- Time/space complexity
+- Language-specific implementations
+
+## 🤝 Contributions
+
+Feel free to add new problems or optimize existing ones. Follow naming conventions and include complexity notes.
