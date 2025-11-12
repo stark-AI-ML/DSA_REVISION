@@ -14,7 +14,6 @@ A structured repository for mastering Data Structures and Algorithms. Ideal for 
 - [ALGO](./ALGO/README.md)
 - [LeetCode](./LeetCode/README.md)
 - [Sorting](./ALGORITHMS/Sorting)
-- [Graph Algorithms](./ALGORITHMS/Graph_Algorithms/README.md)
 
 ## 🧪 How to Use
 
