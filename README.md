@@ -12,6 +12,7 @@ A structured repository for mastering Data Structures and Algorithms. Ideal for 
 
 - [DS](./DS/README.md)
 - [ALGO](./ALGO/README.md)
+- [LeetCode](./LeetCode/README.md)
 - [Sorting](./ALGORITHMS/Sorting)
 - [Graph Algorithms](./ALGORITHMS/Graph_Algorithms/README.md)
 
@@ -25,3 +26,9 @@ Each folder contains:
 ## 🤝 Contributions
 
 Feel free to add new problems or optimize existing ones. Follow naming conventions and include complexity notes.
+
+**Rules for contributions**
+
+- Always update README.md of folder you pushed commit your code into.
+- Write the Time & Space complexity and provide proper refrence.
+- Always provide link of the Question if solving one
