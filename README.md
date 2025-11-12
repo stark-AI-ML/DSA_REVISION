@@ -21,7 +21,6 @@ Each folder contains:
 
 - Problem files with comments
 - Time/space complexity
-- Language-specific implementations
 
 ## 🤝 Contributions
 
